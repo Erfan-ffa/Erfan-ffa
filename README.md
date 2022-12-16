@@ -1,7 +1,7 @@
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-, I'm Erfan
+, I'm Erfan 
 </h1>
 
 <div id="header" align="right">
@@ -9,7 +9,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- I'm on a long trip called <strong>Software Engineering</strong> , in this trip I'm always trying to come up with new ideas and have new solution for my problems ;
+- I'm on a long trip called <strong>Software Engineering</strong> , in this trip I'm always trying to come up with new ideas and have new solution for my problems  :)
 - Currently I'm a back-end developer with these skills:         
 <div>
    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,docker&amp;theme=dark" alt="My Skills" style="max-width: 100%;">
