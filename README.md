@@ -29,7 +29,7 @@ and get in-depth knowledge about <strong> EF Core </strong> ;
 
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias ;
 <div align="left" style="margin-left: 10px;">
-   <a href="https://www.linkedin.com/in/erfan-faridi-8281a2244/">
+   <a href="https://www.linkedin.com/in/erfan-faridi-619192290/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
    </a>  
    <a href="mailto:erfanffa2020@gmail.com">
