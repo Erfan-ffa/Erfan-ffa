@@ -17,14 +17,9 @@
  </div>
  <br>
 
-
-:four_leaf_clover: These days my main foucs is on learning <strong>Design patterns, Caching </strong> and <strong>Microservice</strong> 
-and get in-depth knowledge about <strong> EF Core </strong> ;
-
 - Also I'm intreseted to exprience ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias ;
 <div align="left" style="margin-left: 10px;">
