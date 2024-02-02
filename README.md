@@ -9,8 +9,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- I'm on a long trip called <strong>Software Engineering</strong> , in this trip I'm always trying to come up with new ideas and have new solution for my problems  :)
-- Currently I'm a back-end developer with these skills:         
+"I'm a software enthusiast with a deep passion for dotnet, specializing in crafting high-performance and scalable systems. I enjoy exploring the world of microservices, also love caching tools and strategies and solving challenging algorithms. I'm excited about the endless possibilities within the world of software development and always eager to learn and contribute on open-source projects."
 <div>
    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,docker&amp;theme=dark" alt="My Skills" style="max-width: 100%;">
   <br>
@@ -29,9 +28,6 @@ and get in-depth knowledge about <strong> EF Core </strong> ;
 
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias ;
 <div align="left" style="margin-left: 10px;">
-   <a href="https:/linkedin.com/in/erfan-faridi-b74388290">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-   </a>  
    <a href="mailto:erfanffa2020@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
