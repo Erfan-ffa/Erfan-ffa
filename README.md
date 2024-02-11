@@ -5,7 +5,7 @@
 </h1>
 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25sNHN2MHBpZmQ3a2E4MDJmdnV6cmM5Z2ZqNjA3dnhsaTJkMWR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200" height="180"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25sNHN2MHBpZmQ3a2E4MDJmdnV6cmM5Z2ZqNjA3dnhsaTJkMWR0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180" height="150"/>
 </div>
 
 ### :man_technologist: About Me :
