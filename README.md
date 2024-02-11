@@ -5,7 +5,7 @@
 </h1>
 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGwwNGV2djc3Z24wNHlyaHU0b2pqdDJpNXcyZHY1bWRqdG94Y2VhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" width="90"/>
 </div>
 
 ### :man_technologist: About Me :
